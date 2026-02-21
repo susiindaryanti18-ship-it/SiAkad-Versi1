@@ -38,7 +38,7 @@
             storageBucket: "siakad-guru.firebasestorage.app",
             messagingSenderId: "927647714061",
             appId: "1:927647714061:web:8e424e66cd780cb0ce3e44",
-            databaseURL: "https://siakad-guru-default-rtdb.firebaseio.com" // Sesuaikan dengan URL Database Anda
+            databaseURL: "https://siakad-guru-default-rtdb.firebaseio.com"
         };
 
         // Inisialisasi Firebase
